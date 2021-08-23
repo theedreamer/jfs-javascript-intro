@@ -1,4 +1,4 @@
-# c2-js-intro-debrief
+# JavaScript-intro-debrief
 
 1. GenBuzz 
    * Create variable `myNumber`
