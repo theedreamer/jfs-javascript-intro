@@ -1,7 +1,7 @@
 # JavaScript-intro-debrief
 
 1. GenBuzz 
-   * Create variable `myNumber`
+   * Create variable `myNumber` and assign a value to it.
         * Check that the value of the `myNumber` is of type `number`
    * If `myNumber` is not a number, print 'This is not a number' to the console.
    * If value of `myNumber` is a multiple of 3 print 'Gen' to the console
