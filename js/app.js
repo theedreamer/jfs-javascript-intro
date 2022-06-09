@@ -1,4 +1,4 @@
-let myNumber = 12
+let myNumber = 12 ;
  console.log(myNumber);
 if (myNumber === "Getu") {
   console.log("This is not a number");
@@ -13,7 +13,7 @@ if (myNumber === "Getu") {
 }
 
 
-let fashionItem = "Jeans"
+let fashionItem = "jeans";
 switch (fashionItem){
 case "shoes":
     console.log("shoes are $50.");
@@ -28,6 +28,6 @@ case "socks":
    console.log("socks are $2.");
 break;
 default:
-   console.log("Invalid item.")
+   console.log("Invalid item.");
 }
 console.log(Math.floor(Math.random()*100));
